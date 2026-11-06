@@ -1,0 +1,24 @@
+Job Title: Junior AI / Machine Learning Engineer
+Company: QuantumAI Innovations (Series-A funded)
+Location: Remote / Bengaluru
+
+ROLE SUMMARY:
+We are looking for a passionate Junior Machine Learning Engineer to build, evaluate, and deploy deep learning models into production services.
+
+KEY RESPONSIBILITIES:
+- Train and fine-tune neural network architectures using PyTorch for NLP and computer vision tasks.
+- Implement high-performance data processing pipelines using NumPy, Pandas, and SQL.
+- Package ML models into microservices using FastAPI or Flask with asynchronous endpoints.
+- Containerize inference services with Docker and deploy them to cloud environments.
+- Build semantic document retrieval services using Vector Databases (ChromaDB / pgvector).
+
+REQUIRED QUALIFICATIONS:
+- Strong core foundation in Python and Object-Oriented Programming.
+- Deep familiarity with PyTorch or TensorFlow for deep learning.
+- Hands-on experience developing REST APIs (FastAPI / Flask).
+- Practical experience with Docker containerization and Git workflows.
+- Solid understanding of SQL and relational database schemas.
+
+NICE TO HAVE:
+- Experience with Vector Databases & Embeddings for RAG architectures.
+- Familiarity with CI/CD automated deployment pipelines.

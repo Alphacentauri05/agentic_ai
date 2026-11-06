@@ -1,0 +1,21 @@
+Course: CS401 - Bachelor of Technology in Computer Science & Engineering
+University Syllabus: Semesters 3 to 7
+
+UNIT 1: DATA STRUCTURES & ALGORITHMS
+- Arrays, Linked Lists, Stacks, Queues, Binary Trees, Graph Traversal (BFS, DFS)
+- Sorting algorithms: MergeSort, QuickSort. Asymptotic complexity analysis.
+
+UNIT 2: RELATIONAL DATABASE MANAGEMENT SYSTEMS (DBMS)
+- Relational algebra, Schema normalization (1NF, 2NF, 3NF, BCNF)
+- SQL Data Definition & Querying: SELECT, JOINs, Group By, Indexing, Transactions & ACID properties.
+
+UNIT 3: MATHEMATICAL FOUNDATIONS & PROBABILITY
+- Matrix operations, Linear Algebra, Eigenvalues, Vector spaces.
+- Probability distributions, Bayes Theorem, Hypothesis testing, Descriptive statistics.
+
+UNIT 4: OPERATING SYSTEMS & SYSTEM PROGRAMMING
+- Process scheduling, Deadlocks, Virtual memory, Thread concurrency, Linux shell scripts.
+
+UNIT 5: INTRODUCTION TO ARTIFICIAL INTELLIGENCE & PYTHON
+- Basic Python syntax, loops, functions, OOP in Python.
+- Search algorithms (A*, minimax). Intro to rule-based expert systems.

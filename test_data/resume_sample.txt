@@ -1,0 +1,23 @@
+Candidate: Rohan Sharma
+Degree: B.Tech Computer Science (8th Semester)
+Email: rohan.cs@example.com | GitHub: github.com/rohan-dev
+
+TECHNICAL SKILLS:
+- Languages: Python, C++, SQL (PostgreSQL, MySQL)
+- Frameworks & Libraries: Flask, Basic Scikit-Learn, Pandas, NumPy, HTML, CSS
+- Developer Tools: Git, GitHub, VS Code, Postman, Linux
+
+PRACTICAL PROJECTS:
+1. Event Management REST API (Flask & PostgreSQL)
+   - Developed backend REST endpoints in Flask for student event registration.
+   - Designed normalized PostgreSQL relational schemas and wrote SQL queries with foreign key constraints.
+   - Integrated JWT authentication and tested API response latencies with Postman.
+
+2. Student Performance Predictor (Scikit-Learn & Pandas)
+   - Conducted exploratory data analysis on 1,500 student records using Pandas and NumPy.
+   - Built a linear regression and random forest model to predict semester GPA with 82% accuracy.
+   - Visualized feature importance and correlation matrices using Matplotlib.
+
+CO-CURRICULAR & WORKSHOPS:
+- Active contributor to college open-source club using Git branch workflows.
+- Completed 30-day Python scripting challenge.
